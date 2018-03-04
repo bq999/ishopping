@@ -15,6 +15,11 @@
 #### App Demo
       Use Ionic View to see the demo of the app: http://bilalqaiser.com/cross/ishopping/
 
+#### Note:-
+      Username: admin@admin.com
+      Password: Admin123
+      
+      Or you can sign up
 
 
 Make sure to [follow me on Git ](http://github.com/bq999) for getting the Latest Project Updates. 
